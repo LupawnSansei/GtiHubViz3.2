@@ -91,7 +91,7 @@ ChatGPT panel summarizes the current repo (including top files, A/I averages, de
 ## ❤️ Credits
 
 - UI & overall architecture by **@NickGottwald** and **@Muska Said**.
-- Icon art inspired by Stephen Okita’s GitHub pixel portrait.
+
 
 ---
 
